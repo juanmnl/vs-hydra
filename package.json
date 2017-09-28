@@ -1,0 +1,22 @@
+{
+    "name": "hydra",
+    "displayName": "hydra",
+    "description": "Hail Hydra!",
+    "version": "0.0.1",
+    "publisher": "juanmnl",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hydra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hydra-color-theme.json"
+            }
+        ]
+    }
+}
