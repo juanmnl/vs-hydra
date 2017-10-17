@@ -1,11 +1,14 @@
 # README
-## This is a port of my atom theme "hydra", but for vs-code :D
+## This is a port of my atom's syntax theme "hydra" :D
 
 Hail Hydra! Focused on readability and long-term usage.
 
 You can help develop this theme further by contributing to the github repo.
 
 Chao!! :)
+
+:warning: If you use macOS with a retina display, add this to your "User Settings":  
+`"workbench.fontAliasing": "antialiased"`
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/preview.png)
 
