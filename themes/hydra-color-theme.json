@@ -201,7 +201,7 @@
       "name": "Variable Interpolation",
       "scope": ["variable.interpolation"],
       "settings": {
-        "foreground": "#ff407b"
+        "foreground": "#e21858"
       }
     },
     {
@@ -215,7 +215,14 @@
       "name": "String",
       "scope": ["string"],
       "settings": {
-        "foreground": "#F1F1EB"
+        "foreground": "#ececec"
+      }
+    },
+    {
+      "name": "Variable Object JS",
+      "scope": ["source.js variable.other.object.js"],
+      "settings": {
+        "foreground": "#4ae2af"
       }
     },
     {
@@ -430,7 +437,6 @@
       "name": "Meta Separator",
       "scope": ["meta.separator"],
       "settings": {
-        "background": "#373B41",
         "foreground": "#ABB2BF"
       }
     },
@@ -459,16 +465,14 @@
       "name": "Invalid Deprecated",
       "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#523D14",
-        "background": "#E0C285"
+        "foreground": "#523D14"
       }
     },
     {
       "name": "Invalid Illegal",
       "scope": ["invalid.illegal"],
       "settings": {
-        "foreground": "white",
-        "background": "#E05252"
+        "foreground": "#ff0040"
       }
     },
     {
@@ -712,13 +716,6 @@
       }
     },
     {
-      "name": "Source Ruby Constant Other Symbol > Punctuation",
-      "scope": ["source.ruby constant.other.symbol > punctuation"],
-      "settings": {
-        "foreground": "inherit"
-      }
-    },
-    {
       "name": "Source Python Keyword Operator Logical Python",
       "scope": ["source.python keyword.operator.logical.python"],
       "settings": {
@@ -848,7 +845,7 @@
         "support.variable.property.dom.ts"
       ],
       "settings": {
-        "foreground": "#ff407b"
+        "foreground": "#40d2ff"
       }
     },
     {

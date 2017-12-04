@@ -19,14 +19,6 @@ Thanks and don't forget to say hi!! :)
 This extension is available for free in the
 [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/juanmnl.vscode-theme-hydra)
 
-## Inconsistencies?
-
-This is a very early-stage port, so expect lots of inconcistencies, but you can
-help:
-
-If you find any inconsistency in any language, raise an Issue and I'll fix it,
-please provide a sample for the language so I can compare.
-
 ## Customization
 
 If you are using VSCode 1.12+ versions you can customize the colors to your
