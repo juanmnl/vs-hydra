@@ -33,6 +33,13 @@ If you are using VSCode 1.12+ versions you can customize the colors to your
 liking, overriding the ones provided by this theme. More info
 [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
+I use [Fira Code Font](https://github.com/tonsky/FiraCode) with ligatures
+enabled in the screenshots.
+
+_To enable font ligatures add this to your config:_
+
+`"editor.fontLigatures": true,`
+
 ## Credits (original theme for atom)
 
 [hydra-syntax-theme Atom](https://atom.io/themes/hydra-syntax-theme)
