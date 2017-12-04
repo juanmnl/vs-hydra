@@ -2,12 +2,12 @@
   "name": "hydra",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#333842",
-    "activityBar.foreground": "#D7DAE0",
+    "activityBar.background": "#1e1f2d",
+    "activityBar.foreground": "#d3d5da",
     "activityBarBadge.background": "#FF0064",
     "activityBarBadge.foreground": "#D7DAE0",
     "button.background": "#FF0064",
-    "button.foreground": "#FFFFFF",
+    "button.foreground": "#000000",
     "button.hoverBackground": "#41bfff",
     "diffEditor.insertedTextBackground": "#00809B33",
     "dropdown.background": "#353b45",
@@ -212,6 +212,13 @@
       }
     },
     {
+      "name": "Variable Object JS",
+      "scope": ["source.js variable.other.object.js"],
+      "settings": {
+        "foreground": "#1af1ff"
+      }
+    },
+    {
       "name": "String",
       "scope": ["string"],
       "settings": {
@@ -219,10 +226,10 @@
       }
     },
     {
-      "name": "Variable Object JS",
-      "scope": ["source.js variable.other.object.js"],
+      "name": "String Quoted Html",
+      "scope": ["string.quoted.double.html", "string.quoted.single.html"],
       "settings": {
-        "foreground": "#4ae2af"
+        "foreground": "#9fa3aa"
       }
     },
     {
@@ -310,14 +317,14 @@
         "punctuation.section.inner-class"
       ],
       "settings": {
-        "foreground": "#ff407b"
+        "foreground": "#FF0064"
       }
     },
     {
       "name": "Support Class",
       "scope": ["support.class"],
       "settings": {
-        "foreground": "#FF0064"
+        "foreground": "#ff407b"
       }
     },
     {
@@ -839,13 +846,13 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] JS/TS Support Variable Property Dom",
+      "name": "[VSCODE-CUSTOM] JS/TS Support Variable Property / Fn Dom",
       "scope": [
         "support.variable.property.dom.js",
         "support.variable.property.dom.ts"
       ],
       "settings": {
-        "foreground": "#40d2ff"
+        "foreground": "#ff407b"
       }
     },
     {

@@ -17,7 +17,7 @@ Thanks and don't forget to say hi!! :)
 ## Installing
 
 This extension is available for free in the
-[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/juanmnl.vscode-theme-hydra)
+[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/juanmnl.vscode-theme-hydra)`
 
 ## Customization
 
