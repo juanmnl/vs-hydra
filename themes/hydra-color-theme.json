@@ -508,7 +508,7 @@
       "name": "Markup Italic",
       "scope": ["markup.italic"],
       "settings": {
-        "foreground": "#ff407b",
+        "foreground": "#f0f0f0",
         "fontStyle": "italic"
       }
     },
@@ -1415,14 +1415,14 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#ff407b"
+        "foreground": "#D4C4FF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#ff407b"
+        "foreground": "#D4C4FF"
       }
     },
     {
