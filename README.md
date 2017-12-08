@@ -8,11 +8,17 @@ You can help develop this theme further by contributing to the github repo.
 
 Thanks and don't forget to say hi!! :)
 
-![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/preview.png)
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/preview.jpeg)
 
-![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/css.png)
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/css.jpeg)
 
-![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/json.png)
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/json.jpeg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/js.jpeg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/html.jpeg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/md.jpeg)
 
 ## Installing
 
