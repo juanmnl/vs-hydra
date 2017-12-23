@@ -1,6 +1,6 @@
 # README
 
-## This is a port of my atom's syntax theme "hydra" :D
+## Hail Hydra! v2 is here _(This is a port of my atom's syntax theme "hydra")_ :D
 
 Hail Hydra! v2 is here with some big changes! Hope you like it. :D
 
