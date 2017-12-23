@@ -2,7 +2,7 @@
 
 ## This is a port of my atom's syntax theme "hydra" :D
 
-Hail Hydra! Focused on readability and long-term usage.
+Hail Hydra! v2 is here with some big changes! Hope you like it. :D
 
 You can help develop this theme further by contributing to the github repo.
 
