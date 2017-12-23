@@ -1,28 +1,26 @@
 {
-    "name": "vscode-theme-hydra",
-    "displayName": "Hydra Theme for VS-Code",
-    "description": "Hail Hydra!",
-    "version": "1.0.3",
-    "publisher": "juanmnl",
-    "engines": {
-        "vscode": "^1.16.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "hydra",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hydra-color-theme.json"
-            }
-        ]
-    },
-    "galleryBanner": {
-        "color": "#FF0064",
-        "theme": "dark"
-    },
-    "icon": "icon.png",
-    "license": "MIT"
+  "name": "vscode-theme-hydra",
+  "displayName": "Hydra Theme for VS-Code",
+  "description": "Hail Hydra!",
+  "version": "1.0.3",
+  "publisher": "juanmnl",
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hydra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydra-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#FF0064",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "license": "MIT"
 }
