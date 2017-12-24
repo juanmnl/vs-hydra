@@ -1,8 +1,9 @@
 # README
 
-## Hail Hydra! v2 is here _(This is a port of my atom's syntax theme "hydra")_ :D
+## Hail Hydra! v2 is here :D
 
-Hail Hydra! v2 is here with some big changes! Hope you like it. :D
+V2 is here with some big changes! Hope you like them. :D
+_(This was a port of my atom's syntax theme "hydra" (link on bottom) but I have taken this one a bit forward)_
 
 You can help develop this theme further by contributing to the github repo.
 
@@ -38,7 +39,7 @@ _To enable font ligatures add this to your config:_
 
 `"editor.fontLigatures": true,`
 
-## Credits (original theme for atom)
+## Inspired by:
 
 [hydra-syntax-theme Atom](https://atom.io/themes/hydra-syntax-theme)
 
