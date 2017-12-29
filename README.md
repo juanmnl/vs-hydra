@@ -2,8 +2,8 @@
 
 ## Hail Hydra! v2 is here :D
 
-V2 is here with some big changes! Hope you like them. :D
-_(This was a port of my atom's syntax theme "hydra" (link on bottom) but I have taken this one a bit forward)_
+V2 comes with some big changes! Hope you like them. :D
+_(This **was** a port of my atom's syntax theme "hydra" (link on bottom) but I have taken this one a bit forward)_
 
 You can help develop this theme further by contributing to the github repo.
 
