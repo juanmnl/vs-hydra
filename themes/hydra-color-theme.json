@@ -322,8 +322,7 @@
         "punctuation.section.inner-class"
       ],
       "settings": {
-        "foreground": "#ffffff",
-        "fontStyle": "bold"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -408,7 +407,7 @@
       "name": "Meta Class Body",
       "scope": ["meta.class.body"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#e9eef7"
       }
     },
     {
