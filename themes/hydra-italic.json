@@ -136,8 +136,12 @@
       }
     },
     {
-      "name": "String Quotes",
-      "scope": ["string.quoted.single.js", "string.quoted.double.js"],
+      "name": "String Quoted Content",
+      "scope": [
+        "string.quoted.single.js",
+        "string.quoted.double.js",
+        "string.quoted.double.json"
+      ],
       "settings": {
         "foreground": "#D7DAE0"
       }
