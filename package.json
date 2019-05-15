@@ -2,7 +2,7 @@
   "name": "vscode-theme-hydra",
   "displayName": "Hydra Theme for VS-Code",
   "description": "Hail Hydra!",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "publisher": "juanmnl",
   "engines": {
     "vscode": "^1.16.0"
