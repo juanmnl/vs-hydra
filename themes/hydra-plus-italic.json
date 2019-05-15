@@ -1,5 +1,5 @@
 {
-  "name": "Hydra Simple Italic",
+  "name": "Hydra Plus Italic",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1e1f2d",
@@ -125,14 +125,14 @@
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
       "name": "Regex",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
@@ -140,7 +140,10 @@
       "scope": [
         "string.quoted.single.js",
         "string.quoted.double.js",
-        "string.quoted.double.json"
+        "string.quoted.double.json",
+        "string.quoted.double.xml",
+        "string.quoted.double.html",
+        "string.quoted.single.html"
       ],
       "settings": {
         "foreground": "#D7DAE0"
@@ -157,7 +160,7 @@
       "name": "Language constant (boolean, null)",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
@@ -192,7 +195,7 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#96A1FF",
+        "foreground": "#F08484",
         "fontStyle": "italic"
       }
     },
@@ -255,7 +258,7 @@
       "name": "Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
@@ -335,14 +338,14 @@
       "name": "Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
       "name": "Font names",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {
@@ -402,7 +405,7 @@
       "name": "Markup link description",
       "scope": "string.other.link.description",
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#F08484"
       }
     },
     {

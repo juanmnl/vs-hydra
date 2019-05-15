@@ -1,5 +1,5 @@
 {
-  "name": "Hydra",
+  "name": "Hydra Plus",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1e1f2d",
@@ -124,14 +124,14 @@
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
       "name": "Regex",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -139,7 +139,10 @@
       "scope": [
         "string.quoted.single.js",
         "string.quoted.double.js",
-        "string.quoted.double.json"
+        "string.quoted.double.json",
+        "string.quoted.double.xml",
+        "string.quoted.double.html",
+        "string.quoted.single.html"
       ],
       "settings": {
         "foreground": "#D7DAE0"
@@ -156,7 +159,7 @@
       "name": "Language constant (boolean, null)",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -191,7 +194,7 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -251,7 +254,7 @@
       "name": "Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -279,7 +282,7 @@
       "name": "Object literal key / property",
       "scope": ["meta.object-literal.key", "support.type.property-name"],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -331,14 +334,14 @@
       "name": "Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
       "name": "Font names",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -398,7 +401,7 @@
       "name": "Markup link description",
       "scope": "string.other.link.description",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {

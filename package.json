@@ -27,14 +27,14 @@
         "path": "./themes/hydra-italic.json"
       },
       {
-        "label": "Hydra Simple",
+        "label": "Hydra Plus",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydra-simple.json"
+        "path": "./themes/hydra-plus.json"
       },
       {
-        "label": "Hydra Simple Italic",
+        "label": "Hydra Plus Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydra-simple-italic.json"
+        "path": "./themes/hydra-plus-italic.json"
       }
     ]
   },
