@@ -25,13 +25,23 @@ Thanks and don't forget to say hi!! :)
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/html.jpg)
 
-![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/md.jpg)
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/md-plus.jpg)
 
 ## Hydra Plus
 
 Hydra Plus comes with an extra color that makes things more readable but your eyes will get tired a bit quicker than the original version.
 
 ![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/react-plus.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/css-plus.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/json-plus.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/js-plus.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/html-plus.jpg)
+
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/md-plus.jpg)
 
 ## Installing
 
