@@ -1,5 +1,5 @@
 {
-  "name": "Hydra",
+  "name": "Hydra Simple Italic",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1e1f2d",
@@ -49,6 +49,8 @@
     "sideBarSectionHeader.background": "#242533",
     "statusBar.background": "#242533",
     "statusBar.foreground": "#9DA5B4",
+    "statusBar.debuggingBackground": "#838CC4",
+    "statusBar.debuggingForeground": "#FFFFFF",
     "statusBarItem.hoverBackground": "#2C313A",
     "statusBar.noFolderBackground": "#242533",
     "tab.activeBackground": "#2a2c3c",
@@ -58,7 +60,6 @@
     "titleBar.activeForeground": "#9DA5B4",
     "titleBar.inactiveBackground": "#242533",
     "titleBar.inactiveForeground": "#3C4049",
-    "statusBar.debuggingForeground": "#FFFFFF",
     "extensionButton.prominentBackground": "#FF407B",
     "extensionButton.prominentHoverBackground": "#ff407b"
   },
@@ -108,6 +109,7 @@
       "name": "Parameter",
       "scope": "variable.parameter",
       "settings": {
+        "foreground": "#96A1FF",
         "fontStyle": "italic"
       }
     },
@@ -115,21 +117,22 @@
       "name": "Storage (declaration or modifier keyword)",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Constant",
       "scope": "constant",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
       "name": "Regex",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -150,7 +153,7 @@
       "name": "Language constant (boolean, null)",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -185,7 +188,8 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF",
+        "fontStyle": "italic"
       }
     },
     {
@@ -220,7 +224,8 @@
       "name": "Control keyword (if, try, while, etc.)",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
@@ -238,14 +243,15 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -325,14 +331,14 @@
       "name": "Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
       "name": "Font names",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {
@@ -392,7 +398,7 @@
       "name": "Markup link description",
       "scope": "string.other.link.description",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#96A1FF"
       }
     },
     {

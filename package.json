@@ -13,14 +13,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "hydra",
+        "label": "Hydra",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydra-color-theme.json"
+        "path": "./themes/hydra.json"
+      },
+      {
+        "label": "Hydra Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydra-italic.json"
+      },
+      {
+        "label": "Hydra Simple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydra-simple.json"
+      },
+      {
+        "label": "Hydra Simple Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydra-simple-italic.json"
       }
     ]
   },
   "galleryBanner": {
-    "color": "#FF0064",
+    "color": "#FF407B",
     "theme": "dark"
   },
   "icon": "icon.png",
