@@ -143,7 +143,9 @@
         "string.quoted.double.json",
         "string.quoted.double.xml",
         "string.quoted.double.html",
-        "string.quoted.single.html"
+        "string.quoted.single.html",
+        "string.quoted.single.css",
+        "string.quoted.double.css"
       ],
       "settings": {
         "foreground": "#D7DAE0"
@@ -329,7 +331,10 @@
     },
     {
       "name": "CSS property",
-      "scope": "support.type.property-name.css",
+      "scope": [
+        "support.type.property-name.css",
+        "support.type.vendored.property-name.css"
+      ],
       "settings": {
         "foreground": "#F2F2F2"
       }
