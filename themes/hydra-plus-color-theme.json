@@ -1,5 +1,5 @@
 {
-  "name": "Hydra Plus Italic",
+  "name": "Hydra Plus",
   "type": "dark",
   "colors": {
     "activityBar.background": "#252635",
@@ -115,8 +115,7 @@
       "name": "Storage (declaration or modifier keyword)",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#FF407B",
-        "fontStyle": "italic"
+        "foreground": "#FF407B"
       }
     },
     {
@@ -195,8 +194,7 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F08484",
-        "fontStyle": "italic"
+        "foreground": "#F08484"
       }
     },
     {
@@ -231,8 +229,7 @@
       "name": "Control keyword (if, try, while, etc.)",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#FF407B",
-        "fontStyle": "italic"
+        "foreground": "#FF407B"
       }
     },
     {
@@ -250,8 +247,7 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF407B",
-        "fontStyle": "italic"
+        "foreground": "#FF407B"
       }
     },
     {

@@ -29,7 +29,7 @@
       {
         "label": "Hydra Plus",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydra-plus.json"
+        "path": "./themes/hydra-plus-color-theme.json"
       },
       {
         "label": "Hydra Plus Italic",
