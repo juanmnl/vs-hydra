@@ -284,7 +284,7 @@
       "name": "Object literal key / property",
       "scope": ["meta.object-literal.key", "support.type.property-name"],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#96A1FF"
       }
     },
     {
