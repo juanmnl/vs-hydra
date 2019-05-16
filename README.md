@@ -7,6 +7,8 @@ Hope you like them. :D
 
 Hydra and Hydra Plus come with italic versions, so you can take advantage of those new fonts some of you are using.
 
+![](https://raw.githubusercontent.com/juanmnl/vs-hydra/master/screenshots/main.jpg)
+
 _(This **was** a port of my atom's syntax theme "hydra" (link on bottom) but I have taken this one a bit forward)_
 
 You can help develop this theme further by contributing to the github repo.
