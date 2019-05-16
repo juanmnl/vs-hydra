@@ -142,7 +142,8 @@
         "string.quoted.double.html",
         "string.quoted.single.html",
         "string.quoted.single.css",
-        "string.quoted.double.css"
+        "string.quoted.double.css",
+        "string.template.js"
       ],
       "settings": {
         "foreground": "#D7DAE0"
