@@ -13,11 +13,11 @@
     "dropdown.background": "#353b45",
     "dropdown.border": "#181A1F",
     "editor.background": "#2a2c3c",
-    "editor.foreground": "#ffe08c",
+    "editor.foreground": "#e2e2e2",
     "editorBracketMatch.border": "#FF407B",
     "editor.lineHighlightBackground": "#2C313A",
     "editor.selectionBackground": "#3E4451",
-    "editorCursor.foreground": "#ffe08c",
+    "editorCursor.foreground": "#f8e8a8",
     "editorGroup.border": "#181A1F",
     "editorGroupHeader.tabsBackground": "#242533",
     "editorIndentGuide.background": "#3C4049",
@@ -216,7 +216,7 @@
       "name": "Function",
       "scope": ["entity.name.function", "variable.function"],
       "settings": {
-        "foreground": "#ffe08c"
+        "foreground": "#f8e8a8"
       }
     },
     {
@@ -311,7 +311,7 @@
       "name": "Puncuation Definition block",
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "#ffe08c"
+        "foreground": "#f8e8a8"
       }
     },
     {
@@ -352,7 +352,7 @@
       "name": "CSS #id",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#ffe08c"
+        "foreground": "#f8e8a8"
       }
     },
     {
@@ -412,7 +412,7 @@
       "name": "Python function call",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#ffe08c"
+        "foreground": "#f8e8a8"
       }
     },
     {
