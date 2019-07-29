@@ -116,7 +116,8 @@
       "name": "Storage (declaration or modifier keyword)",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
@@ -195,7 +196,8 @@
       "name": "Tag atttribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F08484"
+        "foreground": "#F08484",
+        "fontStyle": "italic"
       }
     },
     {
@@ -230,7 +232,8 @@
       "name": "Control keyword (if, try, while, etc.)",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
@@ -248,7 +251,8 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF407B"
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
       }
     },
     {
@@ -376,7 +380,8 @@
       "name": "Markup heading",
       "scope": ["markup.heading", "entity.name.section"],
       "settings": {
-        "foreground": "#96A1FF"
+        "foreground": "#96A1FF",
+        "fontStyle": "italic"
       }
     },
     {
