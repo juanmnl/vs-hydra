@@ -451,5 +451,6 @@
         "foreground": "#FF407B"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true
 }
