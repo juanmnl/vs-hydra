@@ -48,7 +48,7 @@ Hydra Plus comes with an extra color that makes things more readable but your ey
 ## Installing
 
 This extension is available for free in the
-[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/juanmnl.vscode-theme-hydra)`
+[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/juanmnl.vscode-theme-hydra)
 
 ## Customization
 
@@ -65,7 +65,7 @@ _To enable font ligatures add this to your config:_
 
 ## Inspired by:
 
-[hydra-syntax-theme Atom](https://atom.io/themes/hydra-syntax-theme)
+[hydra-syntax-theme (Atom - archived)](https://github.com/juanmnl/hydra-syntax-theme)
 
 **Enjoy!**
 and don't forget to say hi! [@\_juanmnl](https://twitter.com/_juanmnl)

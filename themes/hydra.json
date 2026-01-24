@@ -1,5 +1,5 @@
 {
-  "name": "Hydra Plus",
+  "name": "Hydra",
   "type": "dark",
   "colors": {
     "activityBar.background": "#252635",
@@ -445,7 +445,460 @@
       "settings": {
         "foreground": "#FF407B"
       }
+    },
+    {
+      "name": "TypeScript/JavaScript - Interface, Type alias, Enum names",
+      "scope": [
+        "entity.name.type.interface",
+        "entity.name.type.alias",
+        "entity.name.type.enum",
+        "entity.name.type.class"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "TypeScript - Type keywords (interface, type, enum, namespace)",
+      "scope": [
+        "storage.type.interface",
+        "storage.type.type",
+        "storage.type.enum",
+        "storage.type.namespace",
+        "storage.type.class"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "TypeScript - Primitive types",
+      "scope": [
+        "support.type.primitive",
+        "support.type.builtin"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "TypeScript - Type parameters and annotations",
+      "scope": [
+        "meta.type.annotation",
+        "meta.type.parameters",
+        "entity.name.type.parameter"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "TypeScript - Type parameter brackets",
+      "scope": [
+        "punctuation.definition.typeparameters",
+        "meta.type.parameters punctuation.definition"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "TypeScript - Enum members",
+      "scope": "variable.other.enummember",
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "TypeScript - Module/Namespace names",
+      "scope": [
+        "entity.name.type.module",
+        "entity.name.type.namespace"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "TypeScript - Import/Export keywords",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.as"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "TypeScript - Decorators",
+      "scope": [
+        "meta.decorator",
+        "punctuation.decorator"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "TypeScript/JavaScript - String content (TS/TSX)",
+      "scope": [
+        "string.quoted.single.ts",
+        "string.quoted.double.ts",
+        "string.quoted.single.tsx",
+        "string.quoted.double.tsx",
+        "string.template.ts",
+        "string.template.tsx"
+      ],
+      "settings": {
+        "foreground": "#D7DAE0"
+      }
+    },
+    {
+      "name": "Rust - Type names (struct, enum, trait)",
+      "scope": [
+        "entity.name.type.rust",
+        "entity.name.type.struct.rust",
+        "entity.name.type.enum.rust",
+        "entity.name.type.trait.rust",
+        "entity.name.type.union.rust"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "Rust - Lifetimes",
+      "scope": [
+        "entity.name.type.lifetime.rust",
+        "punctuation.definition.lifetime.rust",
+        "storage.modifier.lifetime.rust"
+      ],
+      "settings": {
+        "foreground": "#FF407B",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Rust - Macro names",
+      "scope": [
+        "entity.name.function.macro.rust",
+        "support.macro.rust"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "Rust - Macro punctuation (!)",
+      "scope": "keyword.operator.macro.rust",
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Rust - Module names",
+      "scope": [
+        "entity.name.module.rust",
+        "entity.name.namespace.rust"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "Rust - Storage modifiers (mut, ref, const)",
+      "scope": [
+        "storage.modifier.mut.rust",
+        "storage.modifier.ref.rust"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Rust - Keywords (fn, let, pub, use, mod, impl, etc.)",
+      "scope": [
+        "keyword.other.fn.rust",
+        "keyword.other.crate.rust",
+        "keyword.other.rust",
+        "storage.type.rust",
+        "storage.type.function.rust",
+        "storage.type.impl.rust"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Rust - Primitive types",
+      "scope": [
+        "entity.name.type.primitive.rust",
+        "support.type.primitive.rust"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "Rust - Core/std types (Option, Result, Vec, etc.)",
+      "scope": [
+        "entity.name.type.option.rust",
+        "entity.name.type.result.rust",
+        "support.type.core.rust"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "Rust - String content",
+      "scope": [
+        "string.quoted.double.rust",
+        "string.quoted.single.rust"
+      ],
+      "settings": {
+        "foreground": "#D7DAE0"
+      }
+    },
+    {
+      "name": "Rust - Attributes (#[...])",
+      "scope": [
+        "meta.attribute.rust",
+        "punctuation.definition.attribute.rust",
+        "punctuation.brackets.attribute.rust"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "Rust - Self and super keywords",
+      "scope": [
+        "variable.language.self.rust",
+        "keyword.other.self.rust",
+        "variable.language.super.rust"
+      ],
+      "settings": {
+        "foreground": "#41BFFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JSX/TSX - Component tags (PascalCase)",
+      "scope": [
+        "support.class.component.js",
+        "support.class.component.jsx",
+        "support.class.component.ts",
+        "support.class.component.tsx",
+        "entity.name.tag.component.jsx",
+        "entity.name.tag.component.tsx"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "JSX/TSX - HTML tag names (lowercase)",
+      "scope": [
+        "entity.name.tag.js",
+        "entity.name.tag.jsx",
+        "entity.name.tag.ts",
+        "entity.name.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#41BFFF"
+      }
+    },
+    {
+      "name": "JSX/TSX - Tag brackets",
+      "scope": [
+        "punctuation.definition.tag.js",
+        "punctuation.definition.tag.jsx",
+        "punctuation.definition.tag.ts",
+        "punctuation.definition.tag.tsx",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "JSX/TSX - Attributes",
+      "scope": [
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.ts",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "JSX/TSX - Embedded expressions braces",
+      "scope": [
+        "punctuation.section.embedded.begin.js",
+        "punctuation.section.embedded.end.js",
+        "punctuation.section.embedded.begin.jsx",
+        "punctuation.section.embedded.end.jsx",
+        "punctuation.section.embedded.begin.tsx",
+        "punctuation.section.embedded.end.tsx",
+        "meta.embedded.expression punctuation.section"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "JSX/TSX - Text content",
+      "scope": [
+        "meta.jsx.children",
+        "meta.jsx.children.tsx"
+      ],
+      "settings": {
+        "foreground": "#D7DAE0"
+      }
+    },
+    {
+      "name": "JSX/TSX - Fragment",
+      "scope": [
+        "punctuation.definition.tag.jsx",
+        "punctuation.definition.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "React - Hooks (use* functions)",
+      "scope": [
+        "support.function.dom.js",
+        "entity.name.function.ts",
+        "entity.name.function.tsx"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Variable property access (TS/JS)",
+      "scope": [
+        "variable.other.property.ts",
+        "variable.other.property.tsx",
+        "variable.other.object.property.ts",
+        "variable.other.object.property.tsx"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Object properties (TS/JS)",
+      "scope": [
+        "meta.object-literal.key.ts",
+        "meta.object-literal.key.tsx"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "Language variables (this, self)",
+      "scope": [
+        "variable.language.this",
+        "variable.language.super"
+      ],
+      "settings": {
+        "foreground": "#41BFFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Readonly/const variables",
+      "scope": [
+        "variable.other.constant",
+        "variable.other.constant.property"
+      ],
+      "settings": {
+        "foreground": "#96A1FF"
+      }
+    },
+    {
+      "name": "Arrow function operators",
+      "scope": [
+        "storage.type.function.arrow",
+        "keyword.operator.arrow"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Optional chaining and nullish coalescing",
+      "scope": [
+        "keyword.operator.optional",
+        "keyword.operator.nullish-coalescing",
+        "keyword.operator.ternary"
+      ],
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Spread operator",
+      "scope": "keyword.operator.spread",
+      "settings": {
+        "foreground": "#FF407B"
+      }
+    },
+    {
+      "name": "Type assertion (as)",
+      "scope": "keyword.operator.type.annotation",
+      "settings": {
+        "foreground": "#FF407B"
+      }
     }
   ],
-  "semanticHighlighting": true
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "type": "#41BFFF",
+    "type.declaration": "#41BFFF",
+    "type.defaultLibrary": "#41BFFF",
+    "class": "#41BFFF",
+    "class.declaration": "#41BFFF",
+    "interface": "#41BFFF",
+    "interface.declaration": "#41BFFF",
+    "enum": "#41BFFF",
+    "enum.declaration": "#41BFFF",
+    "enumMember": "#96A1FF",
+    "namespace": "#41BFFF",
+    "typeParameter": "#96A1FF",
+    "function": "#FFFFFF",
+    "function.declaration": "#FFFFFF",
+    "method": "#FFFFFF",
+    "method.declaration": "#FFFFFF",
+    "macro": "#41BFFF",
+    "variable": "#96A1FF",
+    "variable.declaration": "#96A1FF",
+    "variable.readonly": "#96A1FF",
+    "variable.defaultLibrary": "#41BFFF",
+    "parameter": { "foreground": "#96A1FF", "italic": true },
+    "property": "#96A1FF",
+    "property.declaration": "#96A1FF",
+    "property.readonly": "#96A1FF",
+    "string": "#D7DAE0",
+    "number": "#96A1FF",
+    "keyword": "#FF407B",
+    "operator": "#FF407B",
+    "comment": { "foreground": "#5C6370", "italic": true },
+    "lifetime": { "foreground": "#FF407B", "italic": true },
+    "selfKeyword": { "foreground": "#41BFFF", "italic": true },
+    "builtinType": "#41BFFF",
+    "formatSpecifier": "#96A1FF",
+    "decorator": "#41BFFF",
+    "attribute": "#96A1FF"
+  }
 }
